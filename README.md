@@ -13,8 +13,9 @@ Como entusiasta de la Ciencia de Datos, estoy ampliando continuamente mis conoci
 
 - **Machine Learning**: Construcción de modelos predictivos para descubrir conocimientos y patrones.
 - **Análisis de Datos**: Análisis de grandes conjuntos de datos para apoyar decisiones basadas en datos.
-- **Python y R**: Utilización de lenguajes de programación para manipulación y visualización de datos.
-- **Tecnologías de Big Data**: Exploración de herramientas y frameworks como Hadoop y Spark.
+- **Python: Utilización de lenguajes de programación para manipulación y visualización de datos.
+- **SQL**: Gestión y consulta de bases de datos relacionales.
+- **Tableau y Power BI**: Creación de visualizaciones de datos impactantes e informes de inteligencia de negocios.
 
 ## Proyectos Personales
 
